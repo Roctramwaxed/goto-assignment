@@ -1,3 +1,6 @@
+#Deployment
+This project is being deployed at https://goto-assignment.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
